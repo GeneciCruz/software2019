@@ -7,7 +7,7 @@ userAge					rangeOfAge				message
 */
 //Import classes needed
 import java.util.Scanner;
-public class     AgesApp{
+public class AgesApp{
 	//Declare main method
 	public static void main (String args[]){
 		//Declare variables

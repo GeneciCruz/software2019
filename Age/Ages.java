@@ -13,6 +13,7 @@ public class Ages{
 
 	//Set methods to retrieve values from user side
 	public void setUserAge(int userAge){
+
 		this.userAge = userAge;
 	}
 
@@ -31,6 +32,7 @@ public class Ages{
 
 	//Get values returned after processed
 	public String getUserAge(){
+
 		return message;
 	}
 
